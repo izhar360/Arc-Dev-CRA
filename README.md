@@ -2,11 +2,12 @@
 
 main technologies used:
 
-React JS
-Material UI
-React-router
-react-lottie for animation handling
-deployed on heroku
+React JS<br>
+Material UI<br>
+React-router<br>
+react-lottie for animation handling<br>
+nodemailer and firebase for mail functionality<br>
+deployed on heroku<br>
 
 ====================================================
 
