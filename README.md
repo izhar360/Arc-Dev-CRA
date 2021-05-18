@@ -1,3 +1,15 @@
+**Live Link:**  https://jango-dev-mui.herokuapp.com/
+
+main technologies used:
+
+React JS
+Material UI
+React-router
+react-lottie for animation handling
+deployed on heroku
+
+====================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
